@@ -1,0 +1,47 @@
+{
+    "Instance" : {
+        "_inherits": [],
+        "Archivable": "Bool",
+        "Name": "String"
+    },
+    "BasePart": {
+        "_inherits": ["Instance"],
+        "Anchored": "Bool",
+
+
+        "BackParamA": "Float",
+        "BackParamB": "Float",
+        "BackSurface": "SurfaceType",
+        "BackSurfaceInput": "InputType",
+
+        "BottomParamA": "Float",
+        "BottomParamB": "Float",
+        "BottomSurface": "SurfaceType",
+        "BottomSurfaceInput": "InputType",
+
+        "BrickColor": "BrickColor",
+        "CFrame": "CFrame",
+        "CanCollide": "Bool",
+        "CastShadow": "Bool",
+        "CenterOfMass": "Vector3",
+        "CollisionGroupId": "Int",
+        "Color": "Color3",
+        "CustomPhysicalProperties": "PhysicalProperties",
+
+        "FrontParamA": "Float",
+        "FrontParamB": "Float",
+        "FrontSurface": "SurfaceType",
+        "FrontSurfaceInput": "InputType",
+
+        "LeftParamA": "Float",
+        "LeftParamB": "Float",
+        "LeftSurface": "SurfaceType",
+        "LeftSurfaceInput": "InputType",
+
+        "LocalTransparencyModifier": "Float",
+        "Locked": "Bool",
+        "Mass": "Float",
+        "Massless": "Bool",
+        "Material": "Material"
+    }
+}
